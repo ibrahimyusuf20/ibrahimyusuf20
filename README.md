@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimyusuf20&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimyusuf20" /> </p>
 
 Software Engineering student at Burgas Free University.
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=8521630164039761689](https://play.google.com/store/apps/dev?id=8521630164039761689)
 
 - 📫 How to reach me **ibrahimyusuf28072005@gmail.com**
 ---
