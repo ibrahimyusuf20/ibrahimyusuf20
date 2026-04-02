@@ -18,4 +18,4 @@ Software Engineering student at Burgas Free University.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimyusuf20&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ibrahimyusuf20&hide_progress=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ibrahimyusuf20&)
